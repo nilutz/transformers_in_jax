@@ -1,0 +1,5 @@
+black
+pdoc
+jupyter
+notebook
+isort

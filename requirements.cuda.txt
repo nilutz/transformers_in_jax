@@ -1,0 +1,2 @@
+nvidia-cudnn-cu11==8.6.0.163
+#jaxlib==0.4.19+cuda11.cudnn86 #pip install -U "jax[cuda11_pip]" -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
